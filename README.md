@@ -16,6 +16,6 @@ print('1')
 本项目仅作为本人学习使用，请认真对待学生评教工作！
 
 # 注意
-当前驱动支持Edge Version 122.0.2365.80  
+当前驱动支持Edge Version 126.0.2592.68  
 如果驱动发生故障，参考：https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
 
